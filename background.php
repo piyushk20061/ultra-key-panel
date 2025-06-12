@@ -1,0 +1,1 @@
+<?php echo 'Animated Anime Background Handler'; ?>

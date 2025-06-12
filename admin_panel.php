@@ -1,0 +1,1 @@
+<?php echo 'Admin Only Control Panel'; ?>
